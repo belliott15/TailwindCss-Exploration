@@ -18,7 +18,8 @@ module.exports = {
         lightRed: 'hsla(3, 59%, 38%, 1)',
         gray: 'hsla(150, 7%, 46%, 1)',
         darkGray: 'hsla(150, 7%, 30%, 1)',
-        lightGray: 'hsla(150, 7%, 48%, 1)'
+        lightGray: 'hsla(150, 7%, 48%, 1)',
+        lighterGray: 'hsla(150, 7%, 57%, 0.45)'
       },
     },
   },
